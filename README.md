@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="workout_cover.png" alt="Workout Progress Visualization Cover" width="600"/>
+</p>
+
 Workout Progress Visualization 
 
 This project visualizes my personal calisthenics workout journey using Power BI.
