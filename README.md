@@ -2,6 +2,8 @@
   <img src="workout_cover.png" alt="Workout Progress Visualization Cover" width="600"/>
 </p>
 
+![Power BI](https://img.shields.io/badge/Made%20with-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 Workout Progress Visualization 
 
 This project visualizes my personal calisthenics workout journey using Power BI.
